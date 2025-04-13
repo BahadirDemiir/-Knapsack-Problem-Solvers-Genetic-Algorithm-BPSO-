@@ -6,7 +6,7 @@ Genetic Algorithm (GA)
 
 Binary Particle Swarm Optimization (BPSO)
 
-🧬 Genetic Algorithm (GA)
+Genetic Algorithm (GA)
 The GA module (GENETİC.py) simulates the natural selection process, evolving generations of "bags" (solutions) through:
 
 Selection: Individuals with higher fitness are more likely to reproduce
@@ -27,7 +27,7 @@ Average fitness of the population
 
 The best value solution per iteration
 
-🌀 Binary PSO (BPSO)
+Binary PSO (BPSO)
 The BPSO implementation (BPSO.py) models a swarm of particles (bags) moving through the solution space using:
 
 Sigmoid-based Position Updates
@@ -46,7 +46,7 @@ Strong global exploration
 
 Fitness tracking of individuals and global best
 
-💾 Problem Setup
+Problem Setup
 Items: 10 real-world items (e.g., phone, ring, laptop, toaster, etc.)
 
 Constraints: Max weight limit = 7.5
